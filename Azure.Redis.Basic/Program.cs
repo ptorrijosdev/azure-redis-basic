@@ -17,7 +17,7 @@ namespace Azure.Redis.Basic
         });
 
         #endregion
-
+        
         static void Main(string[] args)
         {
             // Retrieves the IDatabase... ¿? Well, it is the Redis client
